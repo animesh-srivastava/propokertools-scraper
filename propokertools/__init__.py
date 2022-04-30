@@ -1,5 +1,9 @@
 from propokertools import network
 
+__author__ = "Animesh Srivastava"
+__email__ = 'animpoker@gmail.com'
+__version__ = "1.0.0"
+
 
 def run_query(query: str) -> dict[str, str] or Exception:
     """
